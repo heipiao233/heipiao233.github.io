@@ -5,4 +5,4 @@ You can play [here](https://heipiao233.github.io/OpenTTD-webhost/openttd.html).
 
 Your game data may be deleted by browser without notification.
 
-Again, unofficial. The game is built without change.
+Again, unofficial. The game is built without change. You can see the source code on [the official repo](https://github.com/OpenTTD/OpenTTD).
